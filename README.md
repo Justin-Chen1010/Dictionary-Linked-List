@@ -6,7 +6,7 @@ Create a simple dictionary via a linked list to store information from the Melbo
 
 **How you would call the program:**
 ```
-Example: "dict datafile outputfile < keyfile"
+dict datafile outputfile < keyfile
 ```
 We can insert the keys that we want to find for example "Tim Hortons, Starbucks".
 Then the program will call the functions to query the database and return any dictionary matches
